@@ -105,21 +105,26 @@ Here's a blank template to get started:
 
 <!-- TABLE OF CONTENTS -->
 
+<a>
 |               Table of Contents              |            Project Based Learning          |            
 | -------------------------------------------- | ------------------------------------------ |
-| [About the Project](#about-the-project)]     | [Project Directory](#file-structure)]      |
-| [Built With](#built-with)                    | [Standards](#about-the-project)]           |
-| [Getting Started](#getting-started)          | [Objectives](#about-the-project)]          |
-| [Prerequisites](#prerequisites)              | [Requirements](#about-the-project)]        |         
-| [Installation](#installation)                | [Code Snippets](#about-the-project)]       |          
-| [Usage](#usage)                              | [Outline Plan](#about-the-project)]        |          
-| [Roadmap](#roadmap)                          | [Conclusion](#about-the-project)]          |
-| [Contributing](#contributing)                | [Limitations](#about-the-project)]         |
+| [About the Project](#about-the-project)      | [Project Directory](#file-structure)       |
+| [Built With](#built-with)                    | [Standards](#about-the-project)            |
+| [Getting Started](#getting-started)          | [Objectives](#about-the-project)           |
+| [Prerequisites](#prerequisites)              | [Requirements](#about-the-project)         |         
+| [Installation](#installation)                | [Code Snippets](#about-the-project)        |          
+| [Usage](#usage)                              | [Outline Plan](#about-the-project)         |          
+| [Roadmap](#roadmap)                          | [Conclusion](#about-the-project)           |
+| [Contributing](#contributing)                | [Limitations](#about-the-project)          |
 | [License](#license)                          |                                            |
 | [Contact](#contact)                          |                                            |
-| [Acknowledgements](#acknowledgements)        |                                            |
+| [Acknowledgements](#acknowledgements)        |                                            | 
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave&layout=compact)](https://github.com/dgustave/github-readme-stats)
 
-[![Donley's github stats](https://github-readme-stats.vercel.app/api?username=dgustave)](https://github.com/dgustave/github-readme-stats)
 
 ## Table of Contents
 * [About the Project](#about-the-project)]
@@ -453,3 +458,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * []()
 * []()
 
+[![Donley's github stats](https://github-readme-stats.vercel.app/api?username=dgustave)](https://github.com/dgustave/github-readme-stats)
