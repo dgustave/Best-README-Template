@@ -22,6 +22,11 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
+<link rel="stylesheet" href= "css/font.css">
+<link rel="stylesheet" href="css/templatemo-style.css">
+<link rel="stylesheet" href="css/owl.css">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -191,10 +196,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
+<title>Read Me Templating</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
 
 <!-- Navbar (sit on top) -->
@@ -320,20 +324,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
     </div>
   </div>
 
-  <!-- Contact Section -->
-  <div class="w3-container w3-padding-32" id="contact">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Contact</h3>
-    <p>Lets get in touch and talk about your next project.</p>
-    <form action="/action_page.php" target="_blank">
-      <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="Email" required name="Email">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="Subject" required name="Subject">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="Comment" required name="Comment">
-      <button class="w3-button w3-black w3-section" type="submit">
-        <i class="fa fa-paper-plane"></i> SEND MESSAGE
-      </button>
-    </form>
-  </div>
   
 <!-- Image of location/map -->
 <div class="w3-container">
