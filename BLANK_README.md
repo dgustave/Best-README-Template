@@ -30,9 +30,25 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield](icons/contributors)
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield](icons/fork.png)
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield](icons/half_star.png)
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield](icons/bug.png)
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield](icons/license.png)
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield](icons/linkedin.png)
+[linkedin-url]: https://linkedin.com/in/othneildrew
+[project-screenshot](images/screenshot.png)
 
 
-<!-- PROJECT LOGO -->
+
+<!-- PROJECT LOGO
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
@@ -53,7 +69,7 @@
     ·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
-</p>
+</p> -->
 
 
 
@@ -77,7 +93,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][project-screenshot]](https://example.com)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -190,7 +206,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-url]: https://linkedin.com/in/github_username
 [product-screenshot]: images/screenshot.png
 
-!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -201,7 +216,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <meta name="author" content="">
 <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
 
-<title>Ramayana - Free Bootstrap 4 CSS Template</title>
 
 <!-- Bootstrap core CSS -->
 <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -244,14 +258,36 @@ https://templatemo.com/tm-529-ramayana
   <div class="row">
     <div class="col-md-12">
       <div class="banner-caption">
-        <h4>Hello, this is your <em>Ramayana</em> Theme.</h4>
-        <span>AWESOME HTML5 &amp; CSS3 TEMPLATE</span>
-        <p>Do you know that <strong>Ramayana</strong> is a free to use Bootstrap 4 CSS template by <strong>templatemo</strong>? You can edit and add more pages as you wanted for your personal or corporate websites.</p>
-        <div class="primary-button">
-          <a href="#">Read More</a>
+        
+  <!-- PROJECT LOGO -->
+  <br />
+  <p align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h4 align="center">YOUR_TITLE</h4>
+          <div class="primary-button">
+          <a href="#">Live Demo</a>
         </div>
-      </div>
-    </div>
+
+  <p align="center">
+    <p>Do you know that <strong>Ramayana</strong> is a free to use Bootstrap 4 CSS template by <strong>templatemo</strong>? You can edit and add more pages as you wanted for your personal or corporate websites.</p>
+    <br />
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  </p>
+  </p>
+
+  </div>
+</div>
+</div>
   </div>
 </div>
 </div>
@@ -446,20 +482,11 @@ https://templatemo.com/tm-529-ramayana
 
 </div>
 
-<!-- Scripts -->
-<!-- Bootstrap core JavaScript -->
-<script src="vendor/jquery/jquery.min.js"></script>
-<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-<script src="js/browser.min.js"></script>
-<script src="js/breakpoints.min.js"></script>
-<script src="js/transition.js"></script>
-<script src="js/owl-carousel.js"></script>
-<script src="js/custom.js"></script>
 </body>
 
 
-  </body>
+</body>
 
 </html>
 
