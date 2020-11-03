@@ -102,16 +102,27 @@ Here's a blank template to get started:
 </div>
 </header>
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 <!-- TABLE OF CONTENTS -->
-<div class= "module-border-wrap">
+
+|               Table of Contents              |            Project Based Learning          |            
+| -------------------------------------------- | ------------------------------------------ |
+| [About the Project](#about-the-project)]     | [Project Directory](#file-structure)]      |
+| [Built With](#built-with)                    | [Standards](#about-the-project)]           |
+| [Getting Started](#getting-started)          | [Objectives](#about-the-project)]          |
+| [Prerequisites](#prerequisites)              | [Requirements](#about-the-project)]        |         
+| [Installation](#installation)                | [Code Snippets](#about-the-project)]       |          
+| [Usage](#usage)                              | [Outline Plan](#about-the-project)]        |          
+| [Roadmap](#roadmap)                          | [Conclusion](#about-the-project)]          |
+| [Contributing](#contributing)                | [Limitations](#about-the-project)]         |
+| [License](#license)                          |                                            |
+| [Contact](#contact)                          |                                            |
+| [Acknowledgements](#acknowledgements)        |                                            |
+
+[![Donley's github stats](https://github-readme-stats.vercel.app/api?username=dgustave)](https://github.com/dgustave/github-readme-stats)
 
 ## Table of Contents
-* [![About the Project](#about-the-project)]
+* [About the Project](#about-the-project)]
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
