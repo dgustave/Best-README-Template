@@ -45,23 +45,6 @@
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [project-screenshot]: images/screenshot.png
 
-<!-- TABLE OF CONTENTS -->
-<div class= "module-border-wrap">
-
-## Table of Contents
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-</div>
 
 
 
@@ -118,6 +101,24 @@ Here's a blank template to get started:
 <a href="index.html">Ramayana</a>
 </div>
 </header>
+
+<!-- TABLE OF CONTENTS -->
+<div class= "module-border-wrap">
+
+## Table of Contents
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+
+</div>
 
 <!-- Banner -->
 <section class="main-banner">
