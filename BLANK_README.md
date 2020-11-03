@@ -105,28 +105,26 @@ Here's a blank template to get started:
 
 <!-- TABLE OF CONTENTS -->
 
-<a href="https://github.com/dgustave/github-readme-stats">
+<!-- <a href="https://github.com/dgustave/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dgustave&repo=github-readme-stats" />
-</a>
+</a> -->
 
-|               Table of Contents              |            Project Based Learning          |            
-| -------------------------------------------- | ------------------------------------------ |
-| [About the Project](#about-the-project)      | [Project Directory](#file-structure)       |
-| [Built With](#built-with)                    | [Standards](#about-the-project)            |
-| [Getting Started](#getting-started)          | [Objectives](#about-the-project)           |
-| [Prerequisites](#prerequisites)              | [Requirements](#about-the-project)         |         
-| [Installation](#installation)                | [Code Snippets](#about-the-project)        |          
-| [Usage](#usage)                              | [Outline Plan](#about-the-project)         |          
-| [Roadmap](#roadmap)                          | [Conclusion](#about-the-project)           |
-| [Contributing](#contributing)                | [Limitations](#about-the-project)          |
-| [License](#license)                          |                                            |
-| [Contact](#contact)                          |                                            |
-| [Acknowledgements](#acknowledgements)        |                                            | 
-
-
+|               Table of Contents              |            Project Based Learning     |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave&layout=compact)](https://github.com/dgustave/github-readme-stats)          
+| -------------------------------------------- | --------------------------------------|
+| [About the Project](#about-the-project)      | [Project Directory](#file-structure)  |
+| [Built With](#built-with)                    | [Standards](#about-the-project)       | 
+| [Getting Started](#getting-started)          | [Objectives](#about-the-project)      |
+| [Prerequisites](#prerequisites)              | [Requirements](#about-the-project)    |         
+| [Installation](#installation)                | [Code Snippets](#about-the-project)   |          
+| [Usage](#usage)                              | [Outline Plan](#about-the-project)    |          
+| [Roadmap](#roadmap)                          | [Conclusion](#about-the-project)      |
+| [Contributing](#contributing)                | [Limitations](#about-the-project)     |
+| [License](#license)                          |                                       |
+| [Contact](#contact)                          |                                       |
+| [Acknowledgements](#acknowledgements)        |                                       | 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave&layout=compact)](https://github.com/dgustave/github-readme-stats) -->
+
 
 
 ## Table of Contents
