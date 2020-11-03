@@ -102,11 +102,16 @@ Here's a blank template to get started:
 </div>
 </header>
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 <!-- TABLE OF CONTENTS -->
 <div class= "module-border-wrap">
 
 ## Table of Contents
-* [About the Project](#about-the-project)
+* [![About the Project](#about-the-project)]
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
