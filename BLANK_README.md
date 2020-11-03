@@ -106,6 +106,7 @@ Here's a blank template to get started:
 <!-- TABLE OF CONTENTS -->
 
 <a>
+
 |               Table of Contents              |            Project Based Learning          |            
 | -------------------------------------------- | ------------------------------------------ |
 | [About the Project](#about-the-project)      | [Project Directory](#file-structure)       |
