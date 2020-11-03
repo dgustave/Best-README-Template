@@ -110,7 +110,7 @@ Here's a blank template to get started:
 </a> -->
 
  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave&layout=compact)](https://github.com/dgustave/github-readme-stats)                                |               Table of Contents          |            Project Based Learning     |   
-  |                                          | ---------------------------------------- | --------------------------------------|
+  | ---------------------------------------- | ---------------------------------------- | --------------------------------------|
   |                                          | [About the Project](#about-the-project)  | [Project Directory](#file-structure)  |
   |                                          | [Built With](#built-with)                | [Standards](#about-the-project)       | 
   |                                          | [Getting Started](#getting-started)      | [Objectives](#about-the-project)      |
