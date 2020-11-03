@@ -32,19 +32,19 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield](icons/contributors)
+[contributors-shield]: icons/contributors
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield](icons/fork.png)
+[forks-shield]: icons/fork.png
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield](icons/half_star.png)
+[stars-shield]: icons/half_star.png
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield](icons/bug.png)
+[issues-shield]: icons/bug.png
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield](icons/license.png)
+[license-shield]: icons/license.png 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield](icons/linkedin.png)
+[linkedin-shield]: icons/linkedin.png
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[project-screenshot](images/screenshot.png)
+[project-screenshot]: images/screenshot.png
 
 
 
@@ -192,7 +192,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
+<!-- [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
 [contributors-url]: https://github.com/github_username/repo/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
 [forks-url]: https://github.com/github_username/repo/network/members
@@ -204,7 +204,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.png -->
 
 <html lang="en">
 
