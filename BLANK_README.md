@@ -120,8 +120,8 @@ Here's a blank template to get started:
 | [Contact](#contact)                          |                                            |
 | [Acknowledgements](#acknowledgements)        |                                            | 
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/dgustave/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dgustave&repo=github-readme-stats" />
 </a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave&layout=compact)](https://github.com/dgustave/github-readme-stats)
 
