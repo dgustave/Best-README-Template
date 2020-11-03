@@ -23,10 +23,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<link rel="stylesheet" href= "css/font.css">
-<link rel="stylesheet" href="css/templatemo-style.css">
-<link rel="stylesheet" href="css/owl.css">
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -194,150 +190,276 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-url]: https://linkedin.com/in/github_username
 [product-screenshot]: images/screenshot.png
 
-<!DOCTYPE html>
-<html>
-<title>Read Me Templating</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<body>
+!DOCTYPE html>
+<html lang="en">
 
-<!-- Navbar (sit on top) -->
-<div class="w3-top">
-  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
-    <a href="#home" class="w3-bar-item w3-button"><b>BR</b> Architects</a>
-    <!-- Float links to the right. Hide them on small screens -->
-    <div class="w3-right w3-hide-small">
-      <a href="#projects" class="w3-bar-item w3-button">Projects</a>
-      <a href="#about" class="w3-bar-item w3-button">About</a>
-      <a href="#contact" class="w3-bar-item w3-button">Contact</a>
-    </div>
-  </div>
-</div>
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
+
+<title>Ramayana - Free Bootstrap 4 CSS Template</title>
+
+<!-- Bootstrap core CSS -->
+<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<!--
+Ramayana CSS Template
+https://templatemo.com/tm-529-ramayana
+-->
+
+<!-- Additional CSS Files -->
+
+<link rel="stylesheet" href= "css/font.css">
+<link rel="stylesheet" href="css/templatemo-style.css">
+<link rel="stylesheet" href="css/owl.css">
+
+</head>
+
+<body class="is-preload">
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Main -->
+<div id="main">
+<div class="inner">
 
 <!-- Header -->
-<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class="w3-image" src="/w3images/architect.jpg" alt="Architecture" width="1500" height="800">
-  <div class="w3-display-middle w3-margin-top w3-center">
-    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>BR</b></span> <span class="w3-hide-small w3-text-light-grey">Architects</span></h1>
-  </div>
+<header id="header">
+<div class="logo">
+<a href="index.html">Ramayana</a>
+</div>
 </header>
 
-<!-- Page content -->
-<div class="w3-content w3-padding" style="max-width:1564px">
-
-  <!-- Project Section -->
-  <div class="w3-container w3-padding-32" id="projects">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Projects</h3>
-  </div>
-
-  <div class="w3-row-padding">
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Summer House</div>
-        <img src="/w3images/house5.jpg" alt="House" style="width:100%">
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Brick House</div>
-        <img src="/w3images/house2.jpg" alt="House" style="width:100%">
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Renovated</div>
-        <img src="/w3images/house3.jpg" alt="House" style="width:100%">
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Barn House</div>
-        <img src="/w3images/house4.jpg" alt="House" style="width:100%">
+<!-- Banner -->
+<section class="main-banner">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-12">
+<div class="banner-content">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="banner-caption">
+        <h4>Hello, this is your <em>Ramayana</em> Theme.</h4>
+        <span>AWESOME HTML5 &amp; CSS3 TEMPLATE</span>
+        <p>Do you know that <strong>Ramayana</strong> is a free to use Bootstrap 4 CSS template by <strong>templatemo</strong>? You can edit and add more pages as you wanted for your personal or corporate websites.</p>
+        <div class="primary-button">
+          <a href="#">Read More</a>
+        </div>
       </div>
     </div>
   </div>
+</div>
+</div>
+</div>
+</div>
+</section>
 
-  <div class="w3-row-padding">
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Summer House</div>
-        <img src="/w3images/house2.jpg" alt="House" style="width:99%">
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Brick House</div>
-        <img src="/w3images/house5.jpg" alt="House" style="width:99%">
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Renovated</div>
-        <img src="/w3images/house4.jpg" alt="House" style="width:99%">
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Barn House</div>
-        <img src="/w3images/house3.jpg" alt="House" style="width:99%">
-      </div>
-    </div>
+<!-- Services -->
+<section class="services">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-4">
+<div class="service-item first-item">
+  <div class="icon"></div>
+  <h4>Web Design</h4>
+  <p>Credit goes to <a rel="nofollow" href="https://www.pexels.com">Pexels</a> and <a rel="nofollow" href="https://www.rawpixel.com">Raw Pixel</a> for images used in this template. Thank you.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="service-item second-item">
+  <div class="icon"></div>
+  <h4>Bootstrap 4</h4>
+  <p>Proin aliquam facilisis ante interdum. Sed nulla feugiat tempus aliquam.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="service-item third-item">
+  <div class="icon"></div>
+  <h4>HTML CSS</h4>
+  <p>Proin aliquam facilisis ante interdum. Sed nulla feugiat tempus aliquam.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="service-item fourth-item">
+  <div class="icon"></div>
+  <h4>Download Free</h4>
+  <p>We have many free to use CSS web templates on our site for you.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="service-item fivth-item">
+  <div class="icon"></div>
+  <h4>Get in touch</h4>
+  <p>You can get the fastest response from <a rel="nofollow" href="https://www.facebook.com/templatemo">templatemo</a> facebook page.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="service-item sixth-item">
+  <div class="icon"></div>
+  <h4>Spread a word</h4>
+  <p>Please tell your friends about our website. This is very helpful.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<!-- Top Image -->
+<section class="top-image">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-12">
+<img src="assets/images/top-image.jpg" alt="">
+<div class="down-content">
+  <h4>Ante Interdum Chambray</h4>
+  <p>Lorem ipsum dolor amet raclette chambray bitters, hammock celiac slow-carb flexitarian four dollar toast food truck health goth. Air plant brunch food truck vegan scenester organic crucifix irony pour-over pop-up austin hexagon kitsch swag. Godard literally humblebrag cloud bread vice master cleanse chambray typewriter put a bird on it brooklyn forage.</p>
+  <div class="primary-button">
+    <a href="#">Read More</a>
   </div>
+</div>
+</div>
+</div>
+</div>
+</section>
 
-  <!-- About Section -->
-  <div class="w3-container w3-padding-32" id="about">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">About</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-      laboris nisi ut aliquip ex ea commodo consequat.
-    </p>
+<!-- Left Image -->
+<section class="left-image">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-6">
+<img src="assets/images/left-image.jpg" alt="">
+</div>
+<div class="col-md-6">
+<div class="right-content">
+  <h4>Ante Interdum Raclette</h4>
+  <p>Lorem ipsum dolor amet raclette chambray bitters, hammock celiac slow-carb flexitarian four dollar toast food truck health goth. Air plant brunch food truck vegan scenester organic crucifix irony pour-over pop-up austin hexagon kitsch swag. Godard literally humblebrag cloud bread vice master cleanse chambray typewriter put a bird on it brooklyn forage.<br><br>Air plant brunch food truck vegan scenester organic crucifix irony pour-over pop-up austin hexagon kitsch swag. Godard literally humblebrag cloud bread vice master cleanse chambray typewriter put bird brooklyn</p>
+  <div class="primary-button">
+    <a href="#">Read More</a>
   </div>
+</div>
+</div>
+</div>
+</div>
+</section>
 
-  <div class="w3-row-padding w3-grayscale">
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="/w3images/team2.jpg" alt="John" style="width:100%">
-      <h3>John Doe</h3>
-      <p class="w3-opacity">CEO & Founder</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
-      <h3>Jane Doe</h3>
-      <p class="w3-opacity">Architect</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="/w3images/team3.jpg" alt="Mike" style="width:100%">
-      <h3>Mike Ross</h3>
-      <p class="w3-opacity">Architect</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="/w3images/team4.jpg" alt="Dan" style="width:100%">
-      <h3>Dan Star</h3>
-      <p class="w3-opacity">Architect</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
-    </div>
+<!-- Right Image -->
+<section class="right-image">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-6">
+<div class="left-content">
+  <h4>Ante Interdum Raclette</h4>
+  <p>Lorem ipsum dolor amet raclette chambray bitters, hammock celiac slow-carb flexitarian four dollar toast food truck health goth. Air plant brunch food truck vegan scenester organic crucifix irony pour-over pop-up austin hexagon kitsch swag. Godard literally humblebrag cloud bread vice master cleanse chambray typewriter put a bird on it brooklyn forage.<br><br>Air plant brunch food truck vegan scenester organic crucifix irony pour-over pop-up austin hexagon kitsch swag. Godard literally humblebrag cloud bread vice master cleanse chambray typewriter put bird brooklyn</p>
+  <div class="primary-button">
+    <a href="#">Read More</a>
   </div>
+</div>
+</div>
+<div class="col-md-6">
+<img src="assets/images/right-image.jpg" alt="">
+</div>
+</div>
+</div>
+</section>
 
-  
-<!-- Image of location/map -->
-<div class="w3-container">
-  <img src="/w3images/map.jpg" class="w3-image" style="width:100%">
+</div>
 </div>
 
-<!-- End page content -->
-</div>
+<!-- Sidebar -->
+<div id="sidebar">
 
+<div class="inner">
+
+<!-- Search Box -->
+<section id="search" class="alt">
+<form method="get" action="#">
+<input type="text" name="search" id="search" placeholder="Search..." />
+</form>
+</section>
+
+<!-- Menu -->
+<nav id="menu">
+<ul>
+<li><a href="index.html">Homepage</a></li>
+<li><a href="simple_page.html">Simple Page</a></li>
+<li><a href="shortcodes.html">Shortcodes</a></li>
+<li>
+<span class="opener">Dropdown One</span>
+<ul>
+<li><a href="#">First Sub Menu</a></li>
+<li><a href="#">Second Sub Menu</a></li>
+<li><a href="#">Third Sub Menu</a></li>
+</ul>
+</li>
+<li>
+<span class="opener">Dropdown Two</span>
+<ul>
+<li><a href="#">Sub Menu #1</a></li>
+<li><a href="#">Sub Menu #2</a></li>
+<li><a href="#">Sub Menu #3</a></li>
+</ul>
+</li>
+<li><a href="https://www.google.com">External Link</a></li>
+</ul>
+</nav>
+
+<!-- Featured Posts -->
+<div class="featured-posts">
+<div class="heading">
+<h2>Featured Posts</h2>
+</div>
+<div class="owl-carousel owl-theme">
+<a href="#">
+<div class="featured-item">
+<img src="assets/images/featured_post_01.jpg" alt="featured one">
+<p>Aliquam egestas convallis eros sed gravida. Curabitur consequat sit.</p>
+</div>
+</a>
+<a href="#">
+<div class="featured-item">
+<img src="assets/images/featured_post_01.jpg" alt="featured two">
+<p>Donec a scelerisque massa. Aliquam non iaculis quam. Duis arcu turpis.</p>
+</div>
+</a>
+<a href="#">
+<div class="featured-item">
+<img src="assets/images/featured_post_01.jpg" alt="featured three">
+<p>Suspendisse ac convallis urna, vitae luctus ante. Donec sit amet.</p>
+</div>
+</a>
+</div>
+</div>
 
 <!-- Footer -->
-<footer class="w3-center w3-black w3-padding-16">
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+<footer id="footer">
+<p class="copyright">Copyright &copy; 2019 Company Name
+<br>Designed by <a rel="nofollow" href="https://www.facebook.com/templatemo">Template Mo</a></p>
 </footer>
 
+</div>
+</div>
+
+</div>
+
+<!-- Scripts -->
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/transition.js"></script>
+<script src="assets/js/owl-carousel.js"></script>
+<script src="assets/js/custom.js"></script>
 </body>
+
+
+  </body>
+
 </html>
+
