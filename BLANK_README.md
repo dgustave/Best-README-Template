@@ -101,6 +101,7 @@ Here's a blank template to get started:
 </div>
 </header>
 
+<a>
 <p align="left">
   <b>Some Links:</b><br>
   <a href="#about-the-project">About the Project</a> |
@@ -117,7 +118,9 @@ Here's a blank template to get started:
   <br><br>
   <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
+</a>
 
+<a>
 <p align="center">
   <b>Some Links:</b><br>
   <a href="#about-the-project">About the Project</a> |
@@ -134,7 +137,7 @@ Here's a blank template to get started:
   <br><br>
   <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
-
+</a>
 <!-- TABLE OF CONTENTS -->
 
 <!-- <a href="https://github.com/dgustave/github-readme-stats">
