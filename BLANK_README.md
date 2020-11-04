@@ -116,10 +116,7 @@ Here's a blank template to get started:
 
   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave)](https://github.com/dgustave/github-readme-stats)         | [![code snippets][snippet-shield]]        |   [![Donleys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dgustave)](https://github.com/dgustave/github-readme-stats)
   | ---------------------------------------- | ---------------------------------------- | --------------------------------------| 
-  |                                          | CODE SNIPPETS                            |                                       |
   |                                          |                                          |                                       |
-  |                                          | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgustave&repo=github-readme-stats)](https://github.com/dgustave&github-readme-stats)                                         |                                       |
-
         
 
 <!-- GETTING STARTED -->
