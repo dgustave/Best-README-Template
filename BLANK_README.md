@@ -106,16 +106,16 @@ Here's a blank template to get started:
   <b>Some Links:</b><br>
   <li>
   <a href="#about-the-project">About the Project</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 3</a> <br>
   </li>
   <br><br>
 </p>
@@ -123,16 +123,16 @@ Here's a blank template to get started:
   <b>Some Links:</b><br>
   <li>
   <a href="#about-the-project">About the Project</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 2</a> <br>
+  <a href="#">Link 3</a> <br>
   </li>
   <br><br>
 </p>
