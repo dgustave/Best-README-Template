@@ -114,7 +114,7 @@ Here's a blank template to get started:
 * []() -->
 
 
-  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave)](https://github.com/dgustave/github-readme-stats)         | [![code snippets][snippet-shield]]        |   [![Donleys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dgustave)](https://github.com/dgustave/github-readme-stats)
+  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave)](https://github.com/dgustave/github-readme-stats)         | [![Donley's github stats](https://github-readme-stats.vercel.app/api?username=dgustave)](https://github.com/dgustave/github-readme-stats)     |   [![Donleys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dgustave)](https://github.com/dgustave/github-readme-stats)
   | ---------------------------------------- | ---------------------------------------- | --------------------------------------| 
   |                                          |                                          |                                       |
         
@@ -192,10 +192,10 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+[code snippets][snippet-shield] 
 
-* []()
-* []()
-* []()
+
+
 
 [![Facebook][facebook-shield]][facebook-url]
 [![Twitter][twitter-shield]][twitter-url]
