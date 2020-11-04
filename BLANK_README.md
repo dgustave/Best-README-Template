@@ -60,31 +60,6 @@
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][project-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
-
-
-### Built With
-
-* []()
-* []()
-* []()
-
-
-  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave&theme=midnight-purple&show_icons)](https://github.com/dgustave/github-readme-stats)                              |       [Code Snippets](#about-the-project)     |   [![Donleys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dgustave&theme=midnight-purple&show_icons)](https://github.com/dgustave/github-readme-stats)
-  | ---------------------------------------- | ---------------------------------------- | --------------------------------------| 
-  |                                          |                                          |                                       |
-  |                                          |                                          |                                       |
-  |                                          | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgustave&repo=github-readme-stats)](https://github.com/dgustave/github-readme-stats)                                         |                                       |
-
-        
   <!-- PROJECT LOGO -->
   <br />
   <p align="center">
@@ -110,7 +85,32 @@ Here's a blank template to get started:
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
   </p>
-  
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][project-screenshot]](https://example.com)
+
+Here's a blank template to get started:
+**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
+`github_username`, `repo_name`, `twitter_handle`, `email`
+
+
+### Built With
+<!-- 
+* []()
+* []()
+* []() -->
+
+
+  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave)](https://github.com/dgustave/github-readme-stats)                              | [code snippets](icons/articles.png)]         |   [![Donleys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dgustave)](https://github.com/dgustave/github-readme-stats)
+  | ---------------------------------------- | ---------------------------------------- | --------------------------------------| 
+  |                                          |  [Code Snippets](#about-the-project)     |                                       |
+  |                                          |                                          |                                       |
+  |                                          | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgustave&repo=github-readme-stats)](https://github.com/dgustave/github-readme-stats)                                         |                                       |
+
+        
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
