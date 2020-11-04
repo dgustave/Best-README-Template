@@ -45,7 +45,20 @@
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [project-screenshot]: images/screenshot.png
 
-
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+* [About the Project](#about-the-project)]
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+  * [Project Directory](#file-structure)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
 
 
 <!-- ABOUT THE PROJECT -->
@@ -64,118 +77,12 @@ Here's a blank template to get started:
 * []()
 * []()
 
-<html lang="en">
 
-<head>
-
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="description" content="">
-<meta name="author" content="">
-<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
-
-
-<!-- Bootstrap core CSS -->
-<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-
-<link rel="stylesheet" href= "css/font.css">
-<link rel="stylesheet" href="css/templatemo-style.css">
-<link rel="stylesheet" href="css/owl.css">
-
-</head>
-
-<body class="is-preload">
-
-
-<!-- Wrapper -->
-<div id="wrapper">
-
-<!-- Main -->
-<div id="main">
-<div class="inner">
-
-<!-- Header -->
-<header id="header">
-<div class="logo">
-</div>
-</header>
-
-<div>
-<p align="left">
-  <b align="left">Some Links:</b><br>
-  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
-  <br><br>
-</p>
-<p align="center">
-  <b align="center">Some Links:</b><br>
-  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
-  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
-  <br><br>
-</p>
-</div>
-
-
-<!-- TABLE OF CONTENTS -->
-
-<!-- <a href="https://github.com/dgustave/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dgustave&repo=github-readme-stats" />
-</a> -->
-
-  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave&layout=compact)](https://github.com/dgustave/github-readme-stats)                              |               Table of Contents          |            Project Based Learning     |   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dgustave)](https://github.com/dgustave/github-readme-stats)
-  | ---------------------------------------- | ---------------------------------------- | --------------------------------------| ------------------------------------------- |
-  |                                          | [About the Project](#about-the-project)  | [Project Directory](#file-structure)  |                                             |
-  |                                          | [Built With](#built-with)                | [Standards](#about-the-project)       |                                             |
-  |                                          | [Getting Started](#getting-started)      | [Objectives](#about-the-project)      |                                             |
-  |                                          | [Prerequisites](#prerequisites)          | [Requirements](#about-the-project)    |                                             |     
-  |                                          | [Installation](#installation)            | [Code Snippets](#about-the-project)   |                                             |         
-  |                                          | [Usage](#usage)                          | [Outline Plan](#about-the-project)    |                                             |   
-  |                                          | [Roadmap](#roadmap)                      | [Conclusion](#about-the-project)      |                                             |
-  |                                          | [Contributing](#contributing)            | [Limitations](#about-the-project)     |                                             |
-  |                                          | [License](#license)                      |                                       |                                             |
-  |                                          | [Contact](#contact)                      |                                       |                                             |
-  |                                          | [Acknowledgements](#acknowledgements)    |                                       |                                             |
-
-  | | | |
-|-|-|-|
-|__Bold Key__| Value1 |
-| Normal Key | Value2 |
-
-
-
-
-
-## Table of Contents
-* [About the Project](#about-the-project)]
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-</div>
+  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave&layout=compact&theme=midnight-purple&show_icons)](https://github.com/dgustave/github-readme-stats)                              |       [Code Snippets](#about-the-project)     |   [![Donleys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dgustave&theme=midnight-purple&show_icons)](https://github.com/dgustave/github-readme-stats)
+  | ---------------------------------------- | ---------------------------------------- | --------------------------------------| 
+  |                                          |                                          |                                       |
+  |                                          |                                          |                                       |
+  |                                          | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgustave&repo=github-readme-stats&theme=midnight-purple&show_icons)](https://github.com/dgustave/github-readme-stats)                                         |                                       |
 
 <!-- Banner -->
 <section class="main-banner">
