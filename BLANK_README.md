@@ -29,7 +29,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN LINKS & ICONS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: icons/contributors.png
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
@@ -41,8 +41,17 @@
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: icons/certified.png 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[snippet-shield]: icons/articles.png
+[linkedin-url]: https://www.linkedin.com/in/donleygustave/
 [linkedin-shield]: icons/linkedin.png
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[twitter-url]: https://twitter.com/
+[twitter-shield]: icons/twitter.png
+[facebook-url]: https://www.facebook.com/dgustave
+[facebook-shield]: icons/facebook.png
+[zoom-url]: https://us02web.zoom.us/j/87691398030?pwd=K1BoTkxLb09CbmpnY0xWcm0wODdaQT09
+[zoom-shield]:  icons/zoom.png
+
+<!-- MARKDOWN LINKS & IMAGES -->
 [project-screenshot]: images/screenshot.png
 
 <!-- TABLE OF CONTENTS -->
@@ -69,7 +78,7 @@
 
   <h4 align="center">YOUR_TITLE</h4>
           <div class="primary-button">
-          <a href="#">Live Demo</a>
+          <a href="#" class="button big">Live Demo</a>
         </div>
 
   <p align="center">
@@ -103,9 +112,9 @@ Here's a blank template to get started:
 * []() -->
 
 
-  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave)](https://github.com/dgustave/github-readme-stats)                              | [code snippets](icons/articles.png)]         |   [![Donleys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dgustave)](https://github.com/dgustave/github-readme-stats)
+  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave)](https://github.com/dgustave/github-readme-stats)         | [![code snippets][snippet-shield]]        |   [![Donleys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dgustave)](https://github.com/dgustave/github-readme-stats)
   | ---------------------------------------- | ---------------------------------------- | --------------------------------------| 
-  |                                          |  [Code Snippets](#about-the-project)     |                                       |
+  |                                          | CODE SNIPPETS                            |                                       |
   |                                          |                                          |                                       |
   |                                          | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgustave&repo=github-readme-stats)](https://github.com/dgustave/github-readme-stats)                                         |                                       |
 
@@ -174,9 +183,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [![@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/dgustave/repo_name)
+
+[![Zoom][zoom-shield]][zoom-url]
 
 
 
@@ -193,5 +204,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <br>Designed by <a rel="nofollow" href="https://www.facebook.com/templatemo">Template Mo</a></p>
 </footer>
 
-
+[![Facebook][facebook-shield]][facebook-url]
+[![Twitter][twitter-shield]][twitter-url]
 [![Donley's github stats](https://github-readme-stats.vercel.app/api?username=dgustave)](https://github.com/dgustave/github-readme-stats)
