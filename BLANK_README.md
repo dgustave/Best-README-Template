@@ -103,31 +103,31 @@ Here's a blank template to get started:
 
 <div>
 <p align="left">
-  <b>Some Links:</b><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
+  <b align="left">Some Links:</b><br>
+  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="left"><a href="#about-the-project">About the Project</a></li><br>
   <br><br>
 </p>
 <p align="center">
-  <b>Some Links:</b><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
-  <li><a href="#about-the-project">About the Project</a></li><br>
+  <b align="center">Some Links:</b><br>
+  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
+  <li align="center"><a href="#about-the-project">About the Project</a></li><br>
   <br><br>
 </p>
 </div>
