@@ -98,10 +98,42 @@ Here's a blank template to get started:
 <!-- Header -->
 <header id="header">
 <div class="logo">
-<a href="index.html">Ramayana</a>
 </div>
 </header>
 
+<p align="left">
+  <b>Some Links:</b><br>
+  <a href="#about-the-project">About the Project</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#about-the-project">About the Project</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
 
 <!-- TABLE OF CONTENTS -->
 
