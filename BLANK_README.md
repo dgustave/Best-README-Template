@@ -103,8 +103,8 @@ Here's a blank template to get started:
 
 <div>
 <p align="left">
-<li>
   <b>Some Links:</b><br>
+  <li>
   <a href="#about-the-project">About the Project</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 2</a> |
@@ -116,12 +116,12 @@ Here's a blank template to get started:
   <a href="#">Link 2</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
+  </li>
   <br><br>
-</li>
 </p>
 <p align="center">
-<li>
   <b>Some Links:</b><br>
+  <li>
   <a href="#about-the-project">About the Project</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 2</a> |
@@ -133,8 +133,8 @@ Here's a blank template to get started:
   <a href="#">Link 2</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
+  </li>
   <br><br>
-</li>
 </p>
 </div>
 
