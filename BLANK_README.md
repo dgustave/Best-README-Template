@@ -109,7 +109,7 @@ Here's a blank template to get started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dgustave&repo=github-readme-stats" />
 </a> -->
 
- | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave&layout=compact)](https://github.com/dgustave/github-readme-stats)                               |               Table of Contents          |            Project Based Learning     |   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?  |username=dgustave)](https://github.com/dgustave/github-readme-stats
+  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgustave&layout=compact)](https://github.com/dgustave/github-readme-stats)                               |               Table of Contents          |            Project Based Learning     |   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?  |username=dgustave)](https://github.com/dgustave/github-readme-stats
   | ---------------------------------------- | ---------------------------------------- | --------------------------------------| ------------------------------------------- |
   |                                          | [About the Project](#about-the-project)  | [Project Directory](#file-structure)  |                                             |
   |                                          | [Built With](#built-with)                | [Standards](#about-the-project)       |                                             |
