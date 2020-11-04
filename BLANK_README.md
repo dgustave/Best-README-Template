@@ -29,6 +29,33 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+
+  <!-- PROJECT LOGO -->
+  <br />
+  <p align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h4 align="center">YOUR_TITLE</h4>
+    <div class="primary-button">
+      <a href="#" class="button big">Live Demo</a>
+    </div>
+
+  <p align="center">
+    <p>Do you know that <strong>Ramayana</strong> is a free to use Bootstrap 4 CSS template by <strong>templatemo</strong>? You can edit and add more pages as you wanted for your personal or corporate websites.</p>
+    <br />
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  </p>
+  </p>
+
 <!-- MARKDOWN LINKS & ICONS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: icons/contributors.png
@@ -56,7 +83,7 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-* [About the Project](#about-the-project)]
+* [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -69,31 +96,6 @@
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-  <!-- PROJECT LOGO -->
-  <br />
-  <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h4 align="center">YOUR_TITLE</h4>
-          <div class="primary-button">
-          <a href="#" class="button big">Live Demo</a>
-        </div>
-
-  <p align="center">
-    <p>Do you know that <strong>Ramayana</strong> is a free to use Bootstrap 4 CSS template by <strong>templatemo</strong>? You can edit and add more pages as you wanted for your personal or corporate websites.</p>
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
-  </p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -116,7 +118,7 @@ Here's a blank template to get started:
   | ---------------------------------------- | ---------------------------------------- | --------------------------------------| 
   |                                          | CODE SNIPPETS                            |                                       |
   |                                          |                                          |                                       |
-  |                                          | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgustave&repo=github-readme-stats)](https://github.com/dgustave/github-readme-stats)                                         |                                       |
+  |                                          | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgustave&repo=github-readme-stats)](https://github.com/dgustave&github-readme-stats)                                         |                                       |
 
         
 
@@ -183,7 +185,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [![@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/dgustave/repo_name)
 
@@ -198,12 +200,13 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * []()
 * []()
 
+[![Facebook][facebook-shield]][facebook-url]
+[![Twitter][twitter-shield]][twitter-url]
+
 <!-- Footer -->
 <footer id="footer">
 <p class="copyright">Copyright &copy; 2019 Company Name
 <br>Designed by <a rel="nofollow" href="https://www.facebook.com/templatemo">Template Mo</a></p>
 </footer>
 
-[![Facebook][facebook-shield]][facebook-url]
-[![Twitter][twitter-shield]][twitter-url]
 [![Donley's github stats](https://github-readme-stats.vercel.app/api?username=dgustave)](https://github.com/dgustave/github-readme-stats)
