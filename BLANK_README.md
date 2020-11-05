@@ -34,12 +34,12 @@
   <br />
   <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="icons/edit.png" alt="Logo" width="80" height="80">
   </a>
 
   <h4 align="center">YOUR_TITLE</h4>
-    <div class="primary-button">
-      <a href="#" class="button big">Live Demo</a>
+    <div class="button big">
+      <a align="center" href="#" >Live Demo</a>
     </div>
 
   <p align="center">
@@ -202,8 +202,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- Footer -->
 <footer id="footer">
-<p class="copyright">Copyright &copy; 2019 Company Name
-<br>Designed by <a rel="nofollow" href="https://www.facebook.com/templatemo">Template Mo</a></p>
+<p class="copyright">Copyright &copy; 2020 Gustave LLC
+<br>Designed by <a rel="nofollow" href="https://www.facebook.com/templatemo">Donley Gustave</a></p>
 </footer>
-
-[![Donley's github stats](https://github-readme-stats.vercel.app/api?username=dgustave)](https://github.com/dgustave/github-readme-stats)
