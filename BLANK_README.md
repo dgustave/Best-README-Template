@@ -29,6 +29,10 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<iframe src="https://ghbtns.com/github-btn.html?user=dgustave&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=dgustave&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20" title="GitHub"></iframe>
+
 
   <!-- PROJECT LOGO -->
   <br />
@@ -38,23 +42,15 @@
   </a>
 
   <h4 align="center">YOUR_TITLE</h4>
-    <div class="button big">
-      <a align="center" href="#" >Live Demo</a>
-    </div>
+   
 
   <p align="center">
-    <p>Do you know that <strong>Ramayana</strong> is a free to use Bootstrap 4 CSS template by <strong>templatemo</strong>? You can edit and add more pages as you wanted for your personal or corporate websites.</p>
+    <p>Do you know that <strong>this template</strong> is free to use Read-me template by <strong>Donley</strong>? You can edit and add more content  for your personal or corporate projects.</p>
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
-  </p>
+
+  <a align="center" class="button big" href="#" >Live Demo</a>
+
+  [![Live Demo][demo-shield]][demo-url]
 
 <!-- MARKDOWN LINKS & ICONS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -68,6 +64,8 @@
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: icons/certified.png 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[demo-shield]: icons/live-demo.png 
+[demo-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [snippet-shield]: icons/articles.png
 [linkedin-url]: https://www.linkedin.com/in/donleygustave/
 [linkedin-shield]: icons/linkedin.png
@@ -75,7 +73,7 @@
 [twitter-shield]: icons/twitter.png
 [facebook-url]: https://www.facebook.com/dgustave
 [facebook-shield]: icons/facebook.png
-[zoom-url]: https://us02web.zoom.us/j/87691398030?pwd=K1BoTkxLb09CbmpnY0xWcm0wODdaQT09
+[zoom-url]: https://calendly.com/donleyc-gustave/meeting
 [zoom-shield]:  icons/zoom.png
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -89,6 +87,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
   * [Project Directory](#file-structure)
+* [Articles](#articles)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
@@ -136,12 +135,20 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/github_username/repo_name.git
+git https://github.com/dgustave/README-Template.git
 ```
 2. Install NPM packages
 ```sh
 npm install
 ```
+
+## Articles
+
+- ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme#readme) - *Stephen Whitmore*
+- ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
+- ["Readme Driven Development"](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
+- ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
+- ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - *KyuWoo Choi*
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -182,17 +189,41 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - donleyc.gustave@gmail.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/dgustave/repo_name)
 
-[![Zoom][zoom-shield]][zoom-url]
+Schedule a meeting with me today - [![Zoom][zoom-shield]][zoom-url]
+Leave a detailed message and I will confirm. 
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/donleyc-gustave/meeting', text: 'Schedule time with me', color: '#00a2ff', textColor: '#ffffff', branding: true });</script>
+<!-- Calendly badge widget end -->
+
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/donleyc-gustave/meeting" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-[code snippets][snippet-shield] 
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Img Shields](https://shields.io)
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Pages](https://pages.github.com)
+* [Animate.css](https://daneden.github.io/animate.css)
+* [Loaders.css](https://connoratherton.com/loaders)
+* [Slick Carousel](https://kenwheeler.github.io/slick)
+* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+* [Sticky Kit](http://leafo.net/sticky-kit)
+* [JVectorMap](http://jvectormap.com)
+* [Font Awesome](https://fontawesome.com)
+* [code snippets][snippet-shield] 
 
 
 
@@ -203,5 +234,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- Footer -->
 <footer id="footer">
 <p class="copyright">Copyright &copy; 2020 Gustave LLC
-<br>Designed by <a rel="nofollow" href="https://www.facebook.com/templatemo">Donley Gustave</a></p>
+<br>Designed by <a rel="nofollow" href="https://www.facebook.com/dgustave">Donley Gustave</a></p>
 </footer>
