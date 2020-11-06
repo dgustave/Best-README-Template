@@ -29,10 +29,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<iframe src="https://ghbtns.com/github-btn.html?user=dgustave&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>
-
-<iframe src="https://ghbtns.com/github-btn.html?user=dgustave&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20" title="GitHub"></iframe>
-
 
   <!-- PROJECT LOGO -->
   <br />
@@ -45,12 +41,16 @@
    
 
   <p align="center">
-    <p>Do you know that <strong>this template</strong> is free to use Read-me template by <strong>Donley</strong>? You can edit and add more content  for your personal or corporate projects.</p>
+    <p>Did you know that <strong>this template</strong> is free to use Read-me template by <strong>Donley</strong>? You can edit and add more content  for your personal or corporate projects.</p>
     <br />
 
-  <a align="center" class="button big" href="#" >Live Demo</a>
-
-  [![Live Demo][demo-shield]][demo-url]
+  <!-- [![Live Demo][demo-shield]][demo-url] -->
+  
+  <p align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="icons/live-demo.png" alt="Logo" width="80" height="80">
+  </a>
+   <h4 align="center">Live Demo</h4>
 
 <!-- MARKDOWN LINKS & ICONS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -64,8 +64,8 @@
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: icons/certified.png 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[demo-shield]: icons/live-demo.png 
-[demo-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+<!-- [demo-shield]: icons/live-demo.png 
+[demo-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt -->
 [snippet-shield]: icons/articles.png
 [linkedin-url]: https://www.linkedin.com/in/donleygustave/
 [linkedin-shield]: icons/linkedin.png
@@ -193,20 +193,10 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - donleyc.gust
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/dgustave/repo_name)
 
-Schedule a meeting with me today - [![Zoom][zoom-shield]][zoom-url]
-Leave a detailed message and I will confirm. 
+[![Zoom][zoom-shield]][zoom-url] :
+* Schedule a meeting with me today!
+* Leave a detailed message and I will confirm. 
 
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/donleyc-gustave/meeting', text: 'Schedule time with me', color: '#00a2ff', textColor: '#ffffff', branding: true });</script>
-<!-- Calendly badge widget end -->
-
-
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/donleyc-gustave/meeting" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
 
 
 
