@@ -69,7 +69,7 @@
 [snippet-shield]: icons/articles.png
 [linkedin-url]: https://www.linkedin.com/in/donleygustave/
 [linkedin-shield]: icons/linkedin.png
-[twitter-url]: https://twitter.com/
+[twitter-url]: https://twitter.com/donley_cg
 [twitter-shield]: icons/twitter.png
 [facebook-url]: https://www.facebook.com/dgustave
 [facebook-shield]: icons/facebook.png
@@ -189,11 +189,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - donleyc.gustave@gmail.com
+Your Name - [@donley_cg](https://twitter.com/donley_cg) - donleyc.gustave@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/dgustave/repo_name)
+Project Link: [https://github.com/dgustave/README-Template](https://github.com/dgustave/README-Template)
 
-[![Zoom][zoom-shield]][zoom-url] :
+[![Zoom][zoom-shield]][zoom-url] 
 * Schedule a meeting with me today!
 * Leave a detailed message and I will confirm. 
 
